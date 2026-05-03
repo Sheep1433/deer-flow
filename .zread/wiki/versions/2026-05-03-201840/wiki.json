@@ -1,0 +1,127 @@
+{
+  "id": "2026-05-03-201840",
+  "generated_at": "2026-05-03T12:18:40.022706076Z",
+  "language": "zh",
+  "pages": [
+    {
+      "slug": "1-xiang-mu-gai-shu",
+      "title": "项目概述",
+      "file": "1-xiang-mu-gai-shu.md",
+      "section": "入门指南",
+      "level": "Beginner"
+    },
+    {
+      "slug": "2-huan-jing-an-zhuang",
+      "title": "环境安装",
+      "file": "2-huan-jing-an-zhuang.md",
+      "section": "入门指南",
+      "group": "快速开始",
+      "level": "Beginner"
+    },
+    {
+      "slug": "3-pei-zhi-zhi-nan",
+      "title": "配置指南",
+      "file": "3-pei-zhi-zhi-nan.md",
+      "section": "入门指南",
+      "group": "快速开始",
+      "level": "Beginner"
+    },
+    {
+      "slug": "4-zheng-ti-jia-gou",
+      "title": "整体架构",
+      "file": "4-zheng-ti-jia-gou.md",
+      "section": "系统架构",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "5-lead-agent-zhu-dai-li",
+      "title": "Lead Agent 主代理",
+      "file": "5-lead-agent-zhu-dai-li.md",
+      "section": "系统架构",
+      "group": "核心组件",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "6-zhong-jian-jian-lian",
+      "title": "中间件链",
+      "file": "6-zhong-jian-jian-lian.md",
+      "section": "系统架构",
+      "group": "核心组件",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "7-sha-xiang-xi-tong",
+      "title": "沙箱系统",
+      "file": "7-sha-xiang-xi-tong.md",
+      "section": "系统架构",
+      "group": "核心组件",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "8-zi-dai-li-xi-tong",
+      "title": "子代理系统",
+      "file": "8-zi-dai-li-xi-tong.md",
+      "section": "高级功能",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "9-ji-yi-xi-tong",
+      "title": "记忆系统",
+      "file": "9-ji-yi-xi-tong.md",
+      "section": "高级功能",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "10-ji-neng-xi-tong",
+      "title": "技能系统",
+      "file": "10-ji-neng-xi-tong.md",
+      "section": "高级功能",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "11-mcp-ji-cheng",
+      "title": "MCP 集成",
+      "file": "11-mcp-ji-cheng.md",
+      "section": "高级功能",
+      "level": "Advanced"
+    },
+    {
+      "slug": "12-an-quan-hu-lan",
+      "title": "安全护栏",
+      "file": "12-an-quan-hu-lan.md",
+      "section": "高级功能",
+      "level": "Advanced"
+    },
+    {
+      "slug": "13-api-can-kao",
+      "title": "API 参考",
+      "file": "13-api-can-kao.md",
+      "section": "开发参考",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "14-ben-di-kai-fa-bu-shu",
+      "title": "本地开发部署",
+      "file": "14-ben-di-kai-fa-bu-shu.md",
+      "section": "开发参考",
+      "group": "部署与运维",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "15-docker-bu-shu",
+      "title": "Docker 部署",
+      "file": "15-docker-bu-shu.md",
+      "section": "开发参考",
+      "group": "部署与运维",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "16-kubernetes-sha-xiang-pei-zhi",
+      "title": "Kubernetes 沙箱配置",
+      "file": "16-kubernetes-sha-xiang-pei-zhi.md",
+      "section": "开发参考",
+      "group": "部署与运维",
+      "level": "Advanced"
+    }
+  ]
+}
