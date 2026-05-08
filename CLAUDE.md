@@ -124,3 +124,7 @@ cd backend && make test
 - 前端使用 `pnpm` 作为包管理器
 - Node.js 版本需 22+
 - Python 版本需 3.12+
+
+## 文档约束
+
+- 所有项目分析文档必须写入 `backend/docs/` 目录

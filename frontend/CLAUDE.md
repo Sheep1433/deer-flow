@@ -92,3 +92,7 @@ NEXT_PUBLIC_LANGGRAPH_BASE_URL=http://localhost:2024
 ```
 
 Requires Node.js 22+ and pnpm 10.26.2+.
+
+## 文档约束
+
+- 所有项目分析文档必须写入 `backend/docs/` 目录

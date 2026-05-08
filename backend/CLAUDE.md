@@ -553,6 +553,10 @@ For models with `supports_vision: true`:
 - Python 3.12+ with type hints
 - Double quotes, space indentation
 
+## 文档约束
+
+- 所有项目分析文档必须写入 `backend/docs/` 目录
+
 ## Documentation
 
 See `docs/` directory for detailed documentation:
